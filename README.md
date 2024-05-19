@@ -9,7 +9,7 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
 1. Create a database.
 2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the folder.
+3. Import csv files provided https://github.com/Rutvik-Gandhi/Music_Store_Analysis/tree/main/dataset in the folder.
 
 Note: If you are using PostgreSQL then restore the file of the database and save yourself some time.
 
